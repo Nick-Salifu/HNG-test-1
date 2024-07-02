@@ -190,14 +190,14 @@ nav ul li a:hover{
     .about-contents {
         display: flex;
         flex-direction: column;
-        margin: 0 4rem;
+        margin: 3rem 4rem;
     }
     .cards{
         /* padding: 1.5rem 3rem; */
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        margin: 0 4rem; 
+        margin: 3rem 4rem; 
     }
     .header-contents{
         margin: 0 4rem;
@@ -213,5 +213,6 @@ nav ul li a:hover{
         gap: 3rem;
         align-items: center;
     }
+    
 
 }
